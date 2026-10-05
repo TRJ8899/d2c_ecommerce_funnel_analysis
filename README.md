@@ -1,18 +1,20 @@
-#  D2C E-Commerce Conversion Funnel Analysis
+#  EcoFit: Sustainable Athletic Wear Conversion Funnel Analysis
 
-An end-to-end data analytics project analyzing **120,000+ direct-to-consumer user sessions** to evaluate user journey drop-offs, track conversion efficiency, and uncover optimization opportunities across different device segments.
+A data analytics project evaluating **120,000+ direct-to-consumer user sessions** for a sustainable activewear brand. This project tracks the customer journey from initial website discovery to final checkout, uncovering major drop-off points and optimizing digital conversion rates.
 
-
+---
 
 ##  Motivation: How I Came Up With This Idea
-I built this project to explore where direct-to-consumer (D2C) e-commerce brands leak the most revenue during the digital user journey. Specifically, I wanted to move beyond basic traffic metrics and pinpoint exactly where friction occurs—answering whether mobile usability or product consideration is the primary culprit behind lost sales.
+I built this project to analyze where eco-conscious apparel brands lose potential customers during the online shopping journey. Specifically, I wanted to see how well traffic converts from browsing sustainable yoga pants and running gear all the way through to completed purchases, and whether product page hesitation or cart abandonment is the primary barrier to sales.
 
+---
 
-
-## 📊 Project Overview & Data Sourcing
+##  Project Overview & Data Sourcing
+* **Brand:** Eco-Friendly Athletic & Fitness Apparel
 * **Dataset Size:** 120,000 anonymized user sessions.
-* **Data Extraction & Tools:** The raw event logs were loaded into a Python environment via Google Colab. Using **Pandas**, I cleaned, filtered, and structured the data into sequential funnel stages, and used **Plotly** to build interactive data visualizations.
-* **Key Focus:** Funnel drop-off analysis, step-to-step conversion friction, and device segmentation (Mobile vs. Desktop).
+* **Data Extraction & Tools:** Processed via Python (Pandas) in Google Colab and visualized using interactive Plotly charts.
+* **Key Focus:** Funnel friction analysis, step-to-step drop-offs, and evaluating how fitness shoppers navigate sustainable product lines.
+
 
 
 
